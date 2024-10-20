@@ -1,0 +1,14 @@
+.homePageContainer {
+  padding: 0 80px;
+}
+
+.mainWrap {
+  padding: 30px 0;
+}
+
+.mainContainer {
+  display: flex;
+  gap: 60px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
